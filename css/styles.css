@@ -241,7 +241,7 @@ body {
 }
 
 .footer-logo-Studio {
-color: var(--CLOUD, #F4F4FD);
+    color: #f4f4fd;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
