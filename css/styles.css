@@ -48,6 +48,10 @@ body {
 
 .header-menu-link {}
 
+.header-address {}
+
+.header-address-menu {}
+ 
 .header-menu-address {
     color: var(--SLATE, #434455);
         /* Body */
@@ -100,13 +104,13 @@ body {
 
 .indentation {}
 
-.hero-footer {}
+.about-us {}
 
-.hero-footer-list {}
+.about-us-list {}
 
-.hero-footer-item {}
+.about-us-item {}
 
-.hero-footer-subtitle {
+.about-us-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
     
         /* Header 3 */
@@ -118,7 +122,7 @@ body {
         letter-spacing: 0.4px;
 }
 
-.hero-footer-item-text {
+.about-us-item-text {
     color: var(--SLATE, #434455);
     
         /* Body */
@@ -146,11 +150,11 @@ body {
         text-transform: capitalize;
 }
 
+.ourteam-title{}
+
 .ourteam-list {}
 
-.ourteam-item {
-    
-}
+.ourteam-item {}
 
 .framem {
         background: var(--WHITE, #FFF);
@@ -197,6 +201,8 @@ body {
         text-transform: capitalize;
 }
 
+.ourportfolio-title {}
+
 .ourportfolio-list {}
 
 .ourportfolio-item {}
@@ -229,7 +235,7 @@ body {
     background: var(--NAVY-BLUE, #2E2F42);
 }
 
-.footer-logo-web {
+.footer-logo-btr {
     color: #4D5AE5;
         font-family: Raleway;
         font-size: 18px;
@@ -238,17 +244,6 @@ body {
         line-height: 1.16;
         letter-spacing: 0.54px;
         text-transform: uppercase;
-}
-
-.footer-logo-Studio {
-    color: #f4f4fd;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
 }
 
 .footer-paragraf {
