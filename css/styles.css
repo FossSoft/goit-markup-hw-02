@@ -1,6 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
+    color: #434455;
     background-color: #ffffff;
 }
 
@@ -78,9 +79,7 @@ body {
 }
 
 .hero-btn {
-    border-radius: 4px;
         background: var(--IRIS, #4D5AE5);
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: var(--WHITE, #FFF);
         /* Button Text */
         font-family: "Roboto", sans-serif;
@@ -154,9 +153,7 @@ body {
 }
 
 .framem {
-    border-radius: 0px 0px 4px 4px;
         background: var(--WHITE, #FFF);
-        box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .ourteam-subtitle {
