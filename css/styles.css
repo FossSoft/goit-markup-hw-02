@@ -230,7 +230,7 @@ body {
 }
 
 .footer-logo-web {
-    color: var(--IRIS, #4D5AE5);
+    color: #4D5AE5;
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
