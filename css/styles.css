@@ -240,13 +240,19 @@ body {
         text-transform: uppercase;
 }
 
+.footer-paragraf {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
 .footer-logo-Studio{
 color: var(--CLOUD, #F4F4FD);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
