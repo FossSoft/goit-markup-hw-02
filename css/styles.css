@@ -6,15 +6,15 @@ body {
 }
 
 .header {
-    background: var(--WHITE, #FFF);
+    background-color: #FFF;
 }
 
 .header-navigation {
-    background: var(--WHITE, #FFF);
+    background-color: #FFF;
 }
 
 .header-logo-web {
-    color: #4D5AE5;
+        color: #4D5AE5;
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -24,7 +24,7 @@ body {
 }
 
 .header-logo-Studio {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 }
 
 .header-menu {
@@ -37,7 +37,7 @@ body {
 .header-menu-item {}
 
 .header-menu-link {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 }
 
 .header-menu-link:hover {
@@ -53,13 +53,13 @@ body {
 }
 
 .header-address-menu {
-    background: var(--WHITE, #FFF);
+    background-color: #FFF;
 }
  
 .header-address-item {}
 
 .header-menu-address-link {
-        color: var(--SLATE, #434455);
+        color: #434455;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .hero-title {
-    color: var(--WHITE, #FFF);
+    color: #FFF;
         text-align: center;
         /* Header 1 */
         font-family: 'Roboto', sans-serif;
@@ -91,8 +91,8 @@ body {
 }
 
 .hero-btn {
-        background: var(--IRIS, #4D5AE5);
-        color: var(--WHITE, #FFF);
+        background-color: #4D5AE5;
+        color: #FFF;
         /* Button Text */
         font-family: "Roboto", sans-serif;
         font-size: 16px;
@@ -119,7 +119,7 @@ body {
 .about-us-item {}
 
 .about-us-subtitle {
-        color: var(--NAVY-BLUE, #2E2F42);
+        color: #2E2F42;
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
@@ -128,7 +128,7 @@ body {
 }
 
 .about-us-item-text {
-        color: var(--SLATE, #434455);
+        color: #434455;
         /* Body */
         font-size: 16px;
         font-weight: 400;
@@ -137,8 +137,8 @@ body {
 }
 
 .ourteam {
-    background: var(--CLOUD, #F4F4FD);
-    color: var(--NAVY-BLUE, #2E2F42);
+        background-color: #F4F4FD;
+        color: #2E2F42;
         text-align: center;
 }
 
@@ -155,15 +155,15 @@ body {
 .ourteam-list {}
 
 .ourteam-item {
-    background-color: #FFFFFF;
+        background-color: #FFFFFF;
 }
 
 .framem {
-        background: var(--WHITE, #FFF);
+        background-:- #FFF;
 }
 
 .ourteam-subtitle {
-    color: var(--NAVY-BLUE, #2E2F42);
+        color: #2E2F42;
         text-align: center;
         /* Header 3 */
         font-size: 20px;
@@ -173,7 +173,7 @@ body {
 }
 
 .ourteam-item-text {
-    color: var(--SLATE, #434455);
+    color: #434455;
         text-align: center;
         /* Body */
         font-size: 16px;
@@ -193,13 +193,13 @@ body {
 }
 
 .ourportfolio-list {
-    background-color: #FFFFFF;
+        background-color: #FFFFFF;
 }
 
 .ourportfolio-item {}
 
 .ourportfolio-subtitle {
-        color: var(--NAVY-BLUE, #2E2F42);
+        color: #2E2F42;
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
@@ -208,7 +208,7 @@ body {
 }
 
 .ourportfolio-item-text {
-        color: var(--SLATE, #434455);
+        color: #434455;
         /* Body */
         font-size: 16px;
         font-weight: 400;
@@ -217,7 +217,7 @@ body {
 }
 
 .footer {
-    background-color: var(--NAVY-BLUE, #2E2F42);
+        background-color: #2E2F42;
 }
 
 .footer-logo-btr {
