@@ -90,7 +90,7 @@ body {
         letter-spacing: 1.12px;
 }
 
-.hero-btn {
+.hero-button {
         background-color: #4D5AE5;
         color: #FFF;
         /* Button Text */
@@ -102,8 +102,8 @@ body {
         letter-spacing: 0.64px;
         cursor: pointer;
     }
-.hero-btn:hover, 
-.hero-btn:focus {
+.hero-button:hover, 
+.hero-button:focus {
     background-color: #404bbf;
 }
 
