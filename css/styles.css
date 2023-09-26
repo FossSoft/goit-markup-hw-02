@@ -102,12 +102,9 @@ body {
         letter-spacing: 0.64px;
         cursor: pointer;
     }
-.hero-btn:hover {
-    background-color: #404BBF;
-}
-
+.hero-btn:hover, 
 .hero-btn:focus {
-    background-color: #404BBF;
+    background-color: #404bbf;
 }
 
 .indentation {}
