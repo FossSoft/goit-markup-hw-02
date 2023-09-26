@@ -6,11 +6,11 @@ body {
 }
 
 .header {
-    background-color: #FFF;
+    background-color: #ffffff;
 }
 
 .header-navigation {
-    background-color: #FFF;
+    background-color: #ffffff;
 }
 
 .header-logo-web {
@@ -125,22 +125,21 @@ body {
 }
 
 .about-us-item-text {
-        color: #434455;
-        /* Body */
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .ourteam {
-        background-color: #F4F4FD;
+        background-color: #f4f4fd;
         color: #2E2F42;
         text-align: center;
 }
 
 .ourteam-title{
-        font-weight: 500;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -149,39 +148,41 @@ body {
         color: #2e2f42;
 }
 
-.ourteam-list {}
+.ourteam-list {
+    background-color: #FFFFFF;
+}
 
 .ourteam-item {
-        background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .framem {
-        background-:- #FFF;
+        background-color: #FFFFFF;
 }
 
 .ourteam-subtitle {
-        color: #2E2F42;
         text-align: center;
-        /* Header 3 */
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 
 .ourteam-item-text {
-    color: #434455;
         text-align: center;
-        /* Body */
+        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .ourportfolio {}
 
 .ourportfolio-title {
         font-size: 36px;
+        font-weight: 700;
         line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
@@ -197,7 +198,6 @@ body {
 
 .ourportfolio-subtitle {
         color: #2E2F42;
-        /* Header 3 */
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -206,7 +206,6 @@ body {
 
 .ourportfolio-item-text {
         color: #434455;
-        /* Body */
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
